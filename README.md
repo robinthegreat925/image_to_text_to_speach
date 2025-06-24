@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinthegreat925/image_to_text_to_speach/blob/main/picture_to_speach_engine.ipynb)
+
 # image_to_text_to_speach
 
 ---
